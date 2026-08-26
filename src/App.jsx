@@ -2,7 +2,7 @@ import './App.css'
 
 const navItems = ['Indicators', 'Features', 'Pricing', 'Download', 'FAQ']
 
-const brandName = 'KingVision'
+const brandName = 'King Vision Bot'
 
 const stats = [
   { value: '1.2M+', label: 'trades analyzed' },
